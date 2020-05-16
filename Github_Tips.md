@@ -1,3 +1,17 @@
+Useful Commands
+
+`git clone`git clone - clone a repository from any url to your local machine
+
+`git add * ` - adds all the files of the repository to the staging area
+
+`git commit -m 'comment about changes made'` - commits changes and adds a message for changes made
+
+`git push` - pushes your changes to a remote repository
+
+
+
+
+
 # Github basic overview
 - Follow the steps mentioned here to [generate SSH key setting](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) 
 - Use this command `git config --global user.email "your@mail.com"`
